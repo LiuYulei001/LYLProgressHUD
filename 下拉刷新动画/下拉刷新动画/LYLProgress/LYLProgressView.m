@@ -5,9 +5,6 @@
 //  Created by Rainy on 2017/1/20.
 //  Copyright © 2017年 liusong. All rights reserved.
 //
-#define kScreenBounds [[UIScreen mainScreen] bounds]
-#define kScreenWidth kScreenBounds.size.width
-#define kScreenHeight kScreenBounds.size.height
 
 #import "LYLProgressView.h"
 #import "LYLProgressLayer.h"
